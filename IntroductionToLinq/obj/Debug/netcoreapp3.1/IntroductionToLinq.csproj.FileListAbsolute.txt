@@ -1,0 +1,13 @@
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\IntroductionToLinq.exe
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\IntroductionToLinq.deps.json
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\IntroductionToLinq.runtimeconfig.json
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\IntroductionToLinq.runtimeconfig.dev.json
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\IntroductionToLinq.dll
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\IntroductionToLinq.pdb
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.csprojAssemblyReference.cache
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.AssemblyInfoInputs.cache
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.AssemblyInfo.cs
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.csproj.CoreCompileInputs.cache
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.dll
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.pdb
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.genruntimeconfig.cache
