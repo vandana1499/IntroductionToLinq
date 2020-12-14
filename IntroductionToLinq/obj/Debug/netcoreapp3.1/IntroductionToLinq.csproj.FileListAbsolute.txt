@@ -11,3 +11,5 @@ C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\net
 C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.dll
 C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.pdb
 C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\obj\Debug\netcoreapp3.1\IntroductionToLinq.genruntimeconfig.cache
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\fuel.csv
+C:\Users\vgupta\source\repos\IntroductionToLinq\IntroductionToLinq\bin\Debug\netcoreapp3.1\manufacturers.csv
